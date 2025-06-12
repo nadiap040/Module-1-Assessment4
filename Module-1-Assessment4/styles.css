@@ -1,0 +1,19 @@
+h1{
+    color:#d16ef0;
+    text-align-last: center;
+    
+}
+td{
+    text-align-last:left;
+}
+table{
+    border-color: black;
+    width: 100%;
+    border-collapse:collapse;
+    table-layout: fixed;
+    
+}
+th{
+    color:darkmagenta;
+    
+}
